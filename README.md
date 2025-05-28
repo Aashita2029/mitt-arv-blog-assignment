@@ -1,4 +1,3 @@
-
 # Blog Platform - Mitt Arv Assignment
 
 A modern, full-stack blog platform built with React, Node.js, and Firebase, featuring user authentication, post creation, and real-time updates. This project was developed as part of the Mitt Arv Software Engineering Internship assignment.
@@ -58,7 +57,7 @@ This blog platform is a full-stack web application that allows users to create, 
 1. Navigate to the backend directory:
    ```bash
    cd backend
-````
+   ```
 
 2. Install dependencies:
 
@@ -90,7 +89,7 @@ This blog platform is a full-stack web application that allows users to create, 
 2. Install dependencies:
 
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    ```
 3. Create a `.env` file with your Firebase configuration:
 
@@ -156,10 +155,3 @@ Feel free to submit issues and enhancement requests!
 ## 📄 License
 
 This project is part of the Mitt Arv Software Engineering Internship assignment.
-
-```
-
----
-
-You may copy this entire content into your `README.md` file. This version is comprehensive, formal, and well-structured for professional presentation. If you need help with anything else, please let me know.
-```
