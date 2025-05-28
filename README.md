@@ -1,8 +1,4 @@
-Certainly. Below is the complete and fully formatted README file for your blog platform project, ready for use:
 
----
-
-````markdown
 # Blog Platform - Mitt Arv Assignment
 
 A modern, full-stack blog platform built with React, Node.js, and Firebase, featuring user authentication, post creation, and real-time updates. This project was developed as part of the Mitt Arv Software Engineering Internship assignment.
